@@ -1,4 +1,4 @@
-#!/root/cir_project/cir-portal/venv/bin/python
+#!/root/Downloads/cir_project/cir-portal/venv/bin/python
 
 # -*- coding: utf-8 -*-
 import re
