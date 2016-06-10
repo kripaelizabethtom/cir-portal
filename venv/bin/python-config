@@ -1,4 +1,4 @@
-#!/root/Downloads/cir_project/cir-portal/venv/bin/python
+#!/root/cir_project/cir-portal/venv/bin/python
 
 import sys
 import getopt
